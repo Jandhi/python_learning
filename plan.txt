@@ -1,0 +1,18 @@
+
+
+BASICS
+[ ] Printing
+[ ] Strings
+[ ] Integers
+[ ] Variables
+
+ITERATION
+[ ] Arrays
+[ ] While loop
+[ ] For loop
+
+STRUCTURE
+[ ] Functions
+
+DATA TYPES
+[ ] Classes
