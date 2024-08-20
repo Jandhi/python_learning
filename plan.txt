@@ -1,18 +1,36 @@
 
+INTRODUCTION
+[ ] What is programming
+[ ] Goals and stuff
 
 BASICS
 [ ] Printing
 [ ] Strings
 [ ] Integers
+[ ] Some basic operators
+[ ] Floats
 [ ] Variables
 
+LOGIC
+[ ] Booleans
+[ ] If 
+[ ] Else
+[ ] Not, And, Or
+
 ITERATION
-[ ] Arrays
+[ ] Lists / Arrays
 [ ] While loop
 [ ] For loop
 
 STRUCTURE
 [ ] Functions
+[ ] Returns
+[ ] Recursion
 
 DATA TYPES
 [ ] Classes
+[ ] Fields / members
+[ ] Methods
+
+
+[ ] Inheritance maybe
