@@ -1,12 +1,13 @@
 
 INTRODUCTION
-[ ] What is programming
-[ ] Goals and stuff
+[X] What is programming
+[X] Goals and stuff
 
 BASICS
-[ ] Printing
-[ ] Strings
-[ ] Integers
+[X] Printing
+[X] Strings
+[X] Integers
+[X] Input
 [ ] Some basic operators
 [ ] Floats
 [ ] Variables

@@ -1,0 +1,32 @@
+C = CommonPlaceAndOrdinary
+M = MiraclesOfNature
+A = HasAttention
+
+-> - implies
+! - NOT
+
+(C -> !A) -> there exists x such that (!A and M)
+
+A) !C -> M
+B) there exists x such that C & M
+C) there exists x such that C & !A
+D) !A -> C
+E) A -> !C
+
+PRESUPPOSITIONS -> CONCLUSION
+
+(C -> !A) & ARG -> there exists x such that (!A and M)
+
+
+1 PreA | C -> !A
+2 PreB | there exists x such that C & M
+3 From line 2 | for some x [
+4             |     C
+5             |     M
+6 Line 1 and 4|     !A ]
+7 From lines 3-6 | there exists x such that !A and M
+
+
+
+
+there exists x such that !A and M
