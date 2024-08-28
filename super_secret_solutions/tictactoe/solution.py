@@ -83,8 +83,8 @@ def evalulate_victory(board : list[str]) -> str:
     
     # rows
     for i in range(3):
-        if (board[3 * i + 1] == X or board[3 * i + 1] == O) and board[3 * i + 1] == board[3 * i + 2] and board[3 * i + 1] == board[3 * i + 3]:
-            return board[3 * i + 1]
+        if (board[3 * i] == X or board[3 * i] == O) and board[3 * i] == board[3 * i + 1] and board[3 * i] == board[3 * i + 2]:
+            return board[3 * i]
         
     return EMPTY
 
