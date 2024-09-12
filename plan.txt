@@ -8,15 +8,15 @@ BASICS
 [X] Strings
 [X] Integers
 [X] Input
-[ ] Some basic operators
-[ ] Floats
-[ ] Variables
+[X] Some basic operators
+[X] Floats
+[X] Variables
 
 LOGIC
-[ ] Booleans
-[ ] If 
+[X] Booleans
+[X] If 
 [ ] Else
-[ ] Not, And, Or
+[X] Not, And, Or
 
 ITERATION
 [ ] Lists / Arrays
