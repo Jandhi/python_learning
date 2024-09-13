@@ -19,7 +19,7 @@ age = input()
 
 #1. Add a new variable called "future_age" that will be the integer of "age" variable + 1 
 #this should help us when just trying to write the 'print' code
-future_age = int(age) +1
+future_age = int(age) + 1
 
 #2. Now we need to print the sentence outlined in step 2 
 reply = 'Hello ' + name + ', in one year, you will be ' + str(future_age) + " years old!"
