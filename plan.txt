@@ -15,13 +15,13 @@ BASICS
 LOGIC
 [X] Booleans
 [X] If 
-[ ] Else
+[X] Else
 [X] Not, And, Or
 
 ITERATION
-[ ] Lists / Arrays
-[ ] While loop
-[ ] For loop
+[X] Lists / Arrays
+[X] While loop
+[X] For loop
 
 STRUCTURE
 [ ] Functions

@@ -49,3 +49,6 @@ print(x % 2 == 0) # Faster!
 
 # exponential operator
 2 ** 5 # this is 2 to the power of 5
+
+
+
